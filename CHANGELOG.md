@@ -1,5 +1,29 @@
 # Changelog
 
+## [2.0.0](https://github.com/HinchK/Gaufrette/compare/v1.0.0...v2.0.0) (2026-07-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* PHP 8.5 compatibility updates ([#722](https://github.com/HinchK/Gaufrette/issues/722))
+
+### Features
+
+* add GitHub Actions workflow to create discussions for published releases ([#726](https://github.com/HinchK/Gaufrette/issues/726)) ([0732fba](https://github.com/HinchK/Gaufrette/commit/0732fbae077a901d54c15f3a6505d68f81c0629d))
+* PHP 8.5 compatibility updates ([#722](https://github.com/HinchK/Gaufrette/issues/722)) ([d11a186](https://github.com/HinchK/Gaufrette/commit/d11a186e3f2c76fa885f4ac0532d2c98aa9a8ff2))
+
+
+### Bug Fixes
+
+* [#575](https://github.com/HinchK/Gaufrette/issues/575) ([7eb06fb](https://github.com/HinchK/Gaufrette/commit/7eb06fb73db89095f4fcc6b37964599747a5411b))
+* 649 - Remove useless files from users and servers ([#679](https://github.com/HinchK/Gaufrette/issues/679)) ([1961e11](https://github.com/HinchK/Gaufrette/commit/1961e117faba1bca8367cb8e3e60c61633dbeb9c))
+* make commande to remove phpspec adapter ([#707](https://github.com/HinchK/Gaufrette/issues/707)) ([ceb9f23](https://github.com/HinchK/Gaufrette/commit/ceb9f239f9c22f452bc09814cc4ad0700b26078e))
+
+
+### Miscellaneous Chores
+
+* **master:** release 1.0.0 ([#724](https://github.com/HinchK/Gaufrette/issues/724)) ([1beae36](https://github.com/HinchK/Gaufrette/commit/1beae36bc62b83c86b06326c01a6f4e92248d848))
+
 ## [1.0.0](https://github.com/KnpLabs/Gaufrette/compare/v0.11.1...v1.0.0) (2026-07-22)
 
 
